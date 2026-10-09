@@ -1,0 +1,1 @@
+npm run lint -w @glassbeetle/api && npm run format -w @glassbeetle/api
